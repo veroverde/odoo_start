@@ -1,3 +1,0 @@
-- Files preview in portal
-- Allow to download folder in portal and create zip file with all content
-- Save in cache own_root directories and update in every create/write/unlink function
